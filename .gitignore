@@ -22,3 +22,15 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# VS Code settings and workspace views
+.vscode/
+.history/
+*.code-workspace
+
+# Java Extension for VS Code generated files
+.project
+.classpath
+.factorypath
+.settings/
+bin/
